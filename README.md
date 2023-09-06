@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some project**
 
-- 🌱 Good with **Python, Gamemaker Language**
+- 🌱 Good with **Python, Gamemaker Language, C**
 
 - 👨‍💻 You can play some of my games here: [https://gx.games/studios/84d90991-44a8-4b00-b799-0039a4380704/](https://gx.games/studios/84d90991-44a8-4b00-b799-0039a4380704/)
 
