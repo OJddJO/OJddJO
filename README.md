@@ -21,6 +21,6 @@
 
 -----
 
-[![OJddJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojddjo&show_icons=true&theme=transparent&card_width=500&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&layout=compact&theme=transparent&card_width=500)
+[![OJddJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojddjo&show_icons=true&theme=transparent&card_width=500&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&layout=compact&theme=transparent&card_width=500&exclude_repo=osu-music-player.exe)
 
 
