@@ -21,7 +21,7 @@
 
 -----
 
-<table>
+<table style="border:0px solid white; width:100%;">
   <tr>
     <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ojddjo&show_icons=true&theme=transparent&rank_icon=github" /></td>
     <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&card_width=400&layout=compact&theme=transparent&langs_count=6&exclude_repo=osu-music-player.exe" /></td>
