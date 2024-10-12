@@ -25,5 +25,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ojddjo&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&layout=compact&theme=transparent&langs_count=6&exclude_repo=osu-music-player.exe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&layout=compact&theme=transparent&card_width=400&langs_count=6&exclude_repo=osu-music-player.exe" />
 </a>
