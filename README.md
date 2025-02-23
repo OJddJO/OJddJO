@@ -7,7 +7,7 @@
 
 - 🌱 Good with **C, Python, Gamemaker Language**
 
-- 👨‍💻 You can play some of my games here: [https://gx.games/studios/84d90991-44a8-4b00-b799-0039a4380704/](https://gx.games/studios/84d90991-44a8-4b00-b799-0039a4380704/)
+- 👨‍💻 You can play some of my games here: [GX Games](https://gx.games/studios/84d90991-44a8-4b00-b799-0039a4380704/)
 
 - ⚡ Fun fact: *Bope* ~~~
 
