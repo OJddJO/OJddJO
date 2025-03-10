@@ -18,8 +18,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table style="border:0px; width: 100%;">
-  <tr style="border: 0px;">
+
+
+<table>
+  <tr>
     <td><h4 align="left">Languages:</h4>
       <p align="left">
       <!-- C -->
@@ -39,7 +41,7 @@
       </p>
     </td>
   </tr>
-  <tr style="border: 0px;">
+  <tr>
     <td><h4 align="left">Tools:</h4>
       <p align="left">
       <!-- Git -->
