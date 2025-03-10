@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-
+<!-- prettier-ignore -->
 <table width="100%">
   <tr>
     <td><h4 align="left">Languages:</h4>
