@@ -32,6 +32,8 @@
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
       <!-- GML -->
       <a href="https://gamemaker.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_gamemaker2.svg" alt="gamemaker" width="40" height="40"/> </a>
+      <!-- NASM -->
+      <a href="https://www.nasm.us" target="_blank" rel="noreferrer"> <img src="https://www.nasm.us/images/nasm.png" alt="nasm" width="40" height="40"/> </a>
       <br><img width="480" height="1">
     </td>
     <td>
@@ -78,6 +80,6 @@
 <table>
   <tr>
     <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ojddjo&show_icons=true&theme=transparent&rank_icon=github" /></td>
-    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&card_width=400&layout=compact&theme=transparent&langs_count=6&exclude_repo=osu-music-player.exe" /></td>
+    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&card_width=400&layout=compact&theme=transparent&langs_count=8&exclude_repo=osu-music-player.exe" /></td>
   </tr>
 </table>
