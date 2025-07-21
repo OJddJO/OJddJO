@@ -34,6 +34,7 @@
       <a href="https://gamemaker.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_gamemaker2.svg" alt="gamemaker" width="40" height="40"/> </a>
       <!-- NASM -->
       <a href="https://www.nasm.us" target="_blank" rel="noreferrer"> <img src="https://www.nasm.us/images/nasm.png" alt="nasm" width="40" height="40"/> </a>
+      <img width="480" height="1">
     </td>
     <td>
       <img width="480" height="1"><br>
@@ -41,6 +42,7 @@
       <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/558ef5347730c2ca4c56a649240af0f6b0fa402c/icons/windows11.svg" alt="windows" width="40" height="40"/> </a>
       <!-- Linux -->
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+      <img width="480" height="1">
     </td>
   </tr>
   <tr>
@@ -56,6 +58,7 @@
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
       <!-- Figma -->
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+      <img width="480" height="1">
     </td>
     <td>
       <img width="480" height="1">
@@ -67,6 +70,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <!-- PHP -->
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+      <img width="480" height="1">
     </td>
   </tr>
 </table>
@@ -75,7 +79,7 @@
 
 <table>
   <tr>
-    <td><img width="480" height="1"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ojddjo&show_icons=true&theme=transparent&rank_icon=github" /></td>
-    <td><img width="480" height="1"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&card_width=400&layout=compact&theme=transparent&langs_count=8&exclude_repo=osu-music-player.exe" /></td>
+    <td><img width=480 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ojddjo&show_icons=true&theme=transparent&rank_icon=github" /></td>
+    <td><img width=480 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&card_width=400&layout=compact&theme=transparent&langs_count=8&exclude_repo=osu-music-player.exe" /></td>
   </tr>
 </table>
