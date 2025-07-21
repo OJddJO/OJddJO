@@ -27,7 +27,7 @@
     <td>
       <img width="480" height="1"><br>
       <!-- C -->
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
       <!-- Python -->
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
       <!-- GML -->
