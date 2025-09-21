@@ -78,6 +78,6 @@
 <table>
   <tr>
     <td><img width="480" height="1"><img width=480 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ojddjo&show_icons=true&theme=transparent&rank_icon=github" /><img width="480" height="1"></td>
-    <td><img width="480" height="1"><img width=480 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&card_width=400&layout=compact&theme=transparent&langs_count=8&exclude_repo=osu-music-player.exe" /><img width="480" height="1"></td>
+    <td><img width="480" height="1"><img width=480 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojddjo&card_width=400&layout=compact&theme=transparent&langs_count=8&exclude_repo=osu-music-player.exe,YTlite" /><img width="480" height="1"></td>
   </tr>
 </table>
