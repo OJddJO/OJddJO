@@ -16,6 +16,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+<p align="center">
 <table>
   <tr>
     <th> Languages </th>
@@ -23,7 +24,7 @@
   </tr>
   <tr>
     <td>
-      <p><img width="480" height="1"></p>
+      <p><img width="200" height="1"></p>
       <!-- C -->
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
       <!-- Python -->
@@ -32,15 +33,15 @@
       <a href="https://gamemaker.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_gamemaker2.svg" alt="gamemaker" width="40" height="40"/> </a>
       <!-- NASM -->
       <a href="https://www.nasm.us" target="_blank" rel="noreferrer"> <img src="https://www.nasm.us/images/nasm.png" alt="nasm" width="40" height="40"/> </a>
-      <p><img width="480" height="1"></p>
+      <p><img width="200" height="1"></p>
     </td>
     <td>
-      <p><img width="480" height="1"></p>
+      <p><img width="200" height="1"></p>
       <!-- Windows -->
       <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/558ef5347730c2ca4c56a649240af0f6b0fa402c/icons/windows11.svg" alt="windows" width="40" height="40"/> </a>
       <!-- Linux -->
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-      <p><img width="480" height="1"></p>
+      <p><img width="200" height="1"></p>
     </td>
   </tr>
   <tr>
@@ -72,6 +73,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 -----
 
