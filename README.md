@@ -41,6 +41,10 @@
       <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/558ef5347730c2ca4c56a649240af0f6b0fa402c/icons/windows11.svg" alt="windows" width="40" height="40"/> </a>
       <!-- Linux -->
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+      <!-- NixOS -->
+      <a href="https://nixos.org/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Nix_snowflake.svg" alt="nixos" width="40" height="40"></a>
+      <!-- Arch -->
+      <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Arch_Linux_%22Crystal%22_icon.svg" alt="arch" width="40" height="40"></a>
       <p><img width="480" height="1"></p>
     </td>
   </tr>
